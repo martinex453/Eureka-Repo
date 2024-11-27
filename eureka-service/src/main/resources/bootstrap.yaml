@@ -7,6 +7,7 @@ spring:
       uri: http://localhost:8081
 server:
   port: 8761
+
 eureka:
   client:
     registerWithEureka: false
